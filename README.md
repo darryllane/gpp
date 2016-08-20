@@ -17,9 +17,10 @@ of the hosting xml file.
 Authors: Darryl Lane | Twitter: @darryllane101
 
 **Usage:**
-  gpp (-s <server>) (-d <domain>) (-u <username>) (-p <password>)
-  gpp --version
-  gpp -h
+
+     gpp (-s <server>) (-d <domain>) (-u <username>) (-p <password>)
+     gpp --version
+     gpp -h
 
 **Example:**
 
