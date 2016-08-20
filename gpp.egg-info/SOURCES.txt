@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+gpp.py
+setup.py
+gpp.egg-info/PKG-INFO
+gpp.egg-info/SOURCES.txt
+gpp.egg-info/dependency_links.txt
+gpp.egg-info/requires.txt
+gpp.egg-info/top_level.txt
