@@ -6,7 +6,7 @@ setup(
     author='Darryl lane',
     author_email='DarrylLane101@gmail.com',
     url='https://github.com/darryllane/gpp',
-    scripts=['gpp.py'],
+    scripts=['gpp'],
     license='LICENSE.txt',
     description='''
     Find and decrypt all cpass entries in SYSVOL. Relates to MS14-025''',
