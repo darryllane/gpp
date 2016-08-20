@@ -22,14 +22,16 @@ Authors: Darryl Lane | Twitter: @darryllane101
   gpp -h
 
 **Example:**
-  gpp -s 192.168.1.111 -d dlsec.local -u administrator -p Password123
+
+     gpp -s 192.168.1.111 -d dlsec.local -u administrator -p Password123
 
 **Options:**
-  -d <domain>        Target Domain name.
-  -u <username>      A valid domain user account, username.
-  -p <password>      A valid domain user account, password.
-  -h --help          Show this screen.
-  --version          Show version.
+    
+    -d <domain>        Target Domain name.
+    -u <username>      A valid domain user account, username.
+    -p <password>      A valid domain user account, password.
+    -h --help          Show this screen.
+    --version          Show version.
 
 **Pip Install Instructions**
 
